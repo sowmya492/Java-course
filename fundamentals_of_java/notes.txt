@@ -1,0 +1,33 @@
+== 17th july 2025
+
+PACKAGES : 
+>> A collection of classes,interfaces and also other sub-packages(you can share it)
+>> to execute any code/statements in java everything should be inside a class.
+
+->Created a package named "fundamentals_of_java"
+    >>1st program - Hello.java
+
+Java Compiler : 
+>> whwnever some code is entered it checjs whether it is valid or not i.e the format/structure/syntax
+>> to run a java program class & main method both are mandatory.
+
+ABOUT : JDK, JRE, JVM
+
+-->JDK : java development kit
+    ->  used in developers laptop
+    ->  it contains various utilities to develop & run java programs.
+
+    **you write java code using JDK tools**
+
+-->JRE : java run time environment
+    -> in servers we use JRE, it provides a run time environment to run something
+    ->helps to run the code using ai tools by providing environment
+    ->Used to run java programs & apps , not to develop java programs & apps 
+
+    **you compile java code using JRE (javac)
+
+-->JVM : java virtual machine
+    ->converts the byte code into machine code 
+    ->java is platform independent (portable)
+
+    **reads (.class) files i.e Byte code & gives it to OS for execution.
