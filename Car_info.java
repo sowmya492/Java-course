@@ -12,7 +12,7 @@ public class Car_info {
         String GearBox = "6-Speed";
         String Drive_Type = "RWD";
 
-        System.out.println("Mahindra Scorpio S 11 :");
+        System.out.println("Mahindra Scorpio S 11 Specifications :");
         System.out.println("Engine & Transmission Details");
         System.out.println("EngineType: " + Engine_Type);
         System.out.println("Displacement :" + Displacement);
