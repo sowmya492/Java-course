@@ -134,15 +134,6 @@ public class Clg_Form {
         System.out.println("is Student disable : " + anyDisabilityORpwd);
         System.out.println("Disability Type : " + TypeOfDisability);
         System.out.println("If Not Disable : " + ifNOtDisable);
-
-
-
-        
-
-
-        
-
-
-}
+    }
 
 }
