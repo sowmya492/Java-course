@@ -79,7 +79,8 @@ public class Clg_Form {
         System.out.println("gender" + ifGenderFemale);
         System.out.println("gender" + ifGenderMale);
         System.out.println("gender" + ifGenderOthers);
-        
+        System.out.println("Student contact" + ContactNumber);
+        System.out.println("Religion");
 
 
 
