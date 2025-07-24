@@ -1,3 +1,5 @@
+package LMSTasks;
+
 public class Clg_Form {
 
     public static void main(String[] args) {

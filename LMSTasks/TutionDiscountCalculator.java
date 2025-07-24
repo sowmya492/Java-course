@@ -1,3 +1,5 @@
+package LMSTasks;
+
 public class TutionDiscountCalculator {
     public static void main(String[]args){
         //input variables
